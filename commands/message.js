@@ -9,7 +9,7 @@
   if (message.author.id === "254370344268201986") return msg.edit(":thinking:")
   if (message.author.id === "318451476521549824") return msg.edit("<:diablopentacle:498525943103619074> INVOCATION DE ISOPOD !")
   if (message.author.id === "278252472068341760") return msg.edit("Bi Te !")
-  if (message.author.id === "312163272642265089") return msg.edit("Pas de message, veuillez contacter <@327176843709120512>")
+  if (message.author.id === "308674949156175872") return msg.edit("🐢 <@308674949156175872> le roi des tortues !")
   if (message.author.id === "193758355708182529") return msg.edit("<:lag:498938178225438722> **iDrunK.exe** a cessé de fonctionner <:lag:498938178225438722>")
   if (message.author.id === "372401915402911766") return msg.edit("Oh ! Mais vous êtes la célébre princesse Mikumi ! ")
   
