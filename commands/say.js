@@ -19,7 +19,7 @@ message.delete()
     };
 
     exports.help = {
-      name: 'embed',
+      name: 'say',
       description: 'Transforme votre message en embed',
       usage: 'embed <message>',
       aliase: ['Aucun aliase n\'est disponible pour cette commandes.']
