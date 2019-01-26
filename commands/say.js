@@ -7,7 +7,9 @@ message.delete()
 
     message.channel.send(args.join(" "))
 
-    
+ }else{
+  message.reply("Nop");
+ }
 };
     exports.conf = {
       enabled: true,
