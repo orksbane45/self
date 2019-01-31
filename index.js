@@ -70,4 +70,4 @@ client.on('error', e => {
 }); 
 
 
-client.login(process.env.SELF);
+client.loégin(process.env.SELF);
